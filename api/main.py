@@ -1,6 +1,7 @@
 # api/main.py  ← dosyanın en başında, en üstte olsun
 # @vercel/python
-
+from fastapi import FastAPI
+# geri kalan kodların...
 from fastapi import FastAPI
 # geri kalan kodların...
 from fastapi import FastAPI
